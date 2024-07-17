@@ -221,7 +221,7 @@ chrono = { version = "0.4", default-features = false, features = [
     "clock",
     "std",
 ] }
-color-eyre = "0.6"
+color-eyre = "=0.6.3"
 derive_more = "0.99"
 dunce = "1"
 evm-disassembler = "0.5"
